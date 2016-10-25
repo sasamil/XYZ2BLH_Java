@@ -1,5 +1,9 @@
 
-New algorithms are based on formula: (1+f')·X·tan(E) - b·e'^2·sin(E) - Y = 0 . 
+This is just the Java implementation of XYZ2BLH program which was originally written in C. Regarding the original version (c/c++), I compared the performancies in various systems, OS's and builds (gcc, msvc, mingw) and the results were always the same. This is just an attempt to make test-comparison in an another language. IMO, Java is the second best choice.
+
+Let me repeat few imprtant things:
+
+New algorithms are based on my (easy to derive) formula: (1+f')·X·tan(E) - b·e'^2·sin(E) - Y = 0 . 
 
 This formula is transformed afterwards to quartic equaton: t^4 + A·t^3 + B·t - 1 = 0 .
 
