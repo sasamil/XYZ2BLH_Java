@@ -11,4 +11,4 @@ Four algorithms are created for solving this quartic equation: 1) direct solutio
 
 New algorithms are tested against the most popular and well-known methods: Moritz-Heiskanen (implemented in proj), Bowring, Borkowsky (recommended by IERS) <img src="http://forum.srpskinacionalisti.com/images/smilies/eusa_naughty.gif" alt="not recommended" height="16" width="20">. The tested methods are enumerated and explained in <i>'methods.txt'</i>. The comparison results are presented in <i>'results.txt'</i>. In a word - new methods are more than  promissing. They can cope with the old ones and they win. There is a clear logical explaination why they are so fast(er) and I believe that they will be used everywhere where performance matters. (especially - nr2) 
 
-And, performances are everything! They save time and energy; they save the planet's resources.
+And, <strong>performances are everything!</strong> They save time and energy; they save the planet's resources.
