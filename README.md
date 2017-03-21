@@ -1,5 +1,5 @@
 
-This is just the Java implementation of XYZ2BLH program which was originally written in C. Regarding the original version (github.com/sasamil/XYZ2BLH), I compared the performancies in various systems, OS's and builds (gcc, msvc, mingw) and the results were always the same. This is just an attempt to make test-comparison in an another language. IMO, Java is the second best choice.
+This is just the Java implementation of XYZ2BLH program which was originally written in C. Regarding <a href="https://github.com/sasamil/XYZ2BLH">the original version</a>, I compared the performancies in various systems, OS's and builds (gcc, msvc, mingw) and the results were always the same. This is just an attempt to make test-comparison in an another language. IMO, Java is the second best choice.
 
 Let me repeat few important things:
 
