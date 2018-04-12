@@ -8,7 +8,7 @@ altitudes. It's fast but it's not always accurate at cm/mm level. (keep in mind,
 
 4) Bowring-proj is faster that bowring23. Quite logical. 
 
-5) IERS recommends Borkowsky. However, it is not fast i.e. it is the slowest. Worst of all - the code contains a bug.
+5) IERS recommends Borkowsky. However, it is not fast i.e. it is the slowest.
 
 6) Bowring23 and nr2 are equally accurate but a little slower at sattelite heights. (usually, one iteration more)
 
