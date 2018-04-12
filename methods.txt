@@ -40,7 +40,7 @@ Every new method here, starts with my (easy to prove) equation: (1+f')·P·tan(E
 Substituting tan(E/2) with t, this equation becomes quartic: t^4 + A·t^3 + B·t - 1 = 0. New algorithms are based on solving 
 this quartic equation.
 
-1) Direct solution. Solving quartic by the technique and code explained in my <a href="hhttps://github.com/sasamil/Quartic">'Quartic'</a> repository (please, take a look on it).
+1) Direct solution. Solving quartic by the technique and code explained in my <a href="https://github.com/sasamil/Quartic">'Quartic'</a> repository (please, take a look on it).
 The rest of the job is straightforward.
 
 2) Optimized direct solution. Solving quartic by the technique explained in 'Quartic' repository but optimized for this
